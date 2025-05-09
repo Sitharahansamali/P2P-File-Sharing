@@ -1,0 +1,1 @@
+the client file will be placed on one lap and the server file will be placed on other lap. so how i send a file from one laptop to another laptop.
